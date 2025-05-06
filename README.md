@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Marta Truszczyńska
+## Hi, I'm Marta Truszczyńska
 
 I'm a junior year high school student from Poland, aspiring to become a researcher in the future.  
 I'm passionate about **biotechnology**, **computer science**, and especially **bioinformatics** — I love exploring the intersection between biology and technology.
