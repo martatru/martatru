@@ -1,13 +1,8 @@
-# Hi, I'm Marta
-
-Python Developer | Machine Learning Enthusiast | Bioinformatics Explorer | CTF Player
-
----
+# Hi, I'm Marta!
 
 ## About Me
 - Primarily coding in **Python**
-- Experienced with **Machine Learning** and **Data Science**
-- Interested in **Bioinformatics**  
+- Interested in **Machine Learning** & **Bioinformatics**  
 - Passionate about **Cybersecurity** and **CTFs**
 
 ---
@@ -20,21 +15,21 @@ Python Developer | Machine Learning Enthusiast | Bioinformatics Explorer | CTF P
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=hack-the-box&logoColor=white"/>
 </p>
 
 ---
 
 ## GitHub Stats
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojLogin&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojLogin&layout=compact&theme=tokyonight)
+![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martatru&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martatru&layout=compact&theme=tokyonight)
 
 ---
 
 ## Current Projects
 - **NeuroBand – an intelligent wristband that monitors stress using biological sensors and machine learning algorithms**
-- **CTFs @ Gimel team** [Team Profile](https://ctftime.org/team/357179)
-- **ML models for bioinformatics**
+- **Research Project: “BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology”**
+- **Solving CTFs @** [Gimel](https://ctftime.org/team/357179)
+
 
 ---
 
