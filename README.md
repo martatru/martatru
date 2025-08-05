@@ -26,8 +26,8 @@
 ---
 
 ## Current Projects
-- **NeuroBand – an intelligent wristband that monitors stress using biological sensors and machine learning algorithms**
-- **Research Project: “BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology”**
+- **NeuroBand – an intelligent wristband that monitors stress using biological sensors and ML algorithms**
+- **Research Project: BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology**
 - **Solving CTFs @** [Gimel](https://ctftime.org/team/357179)
 
 
