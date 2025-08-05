@@ -19,12 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martatru&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martatru&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Current Projects
 - 🧠 **NeuroBand – an intelligent wristband that monitors stress using biological sensors and ML algorithms**
 - 🌱 **Research Project: BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology**
