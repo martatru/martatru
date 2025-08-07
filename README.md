@@ -19,13 +19,6 @@
 
 ---
 
-## 🚀 Current Projects
-- 🌱 **Research Project: BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology**
-- 🔐 **Solving CTFs @** [Gimel](https://ctftime.org/team/357179)
-- 🧠 **NeuroBand – an intelligent wristband that monitors stress using biological sensors and ML algorithms**
-
----
-
 ## 🌐 Connect with Me
 <p>
   <a href="https://github.com/martatru"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
