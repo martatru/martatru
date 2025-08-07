@@ -3,7 +3,7 @@
 ## 💡 About Me
 - Primarily coding in **Python**
 - Interested in **Machine Learning** & **Bioinformatics**  
-- Passionate about **Cybersecurity** and **CTFs**
+- Passionate about **Homelabbing** and **CTFs**
 
 ---
 
@@ -20,9 +20,9 @@
 ---
 
 ## 🚀 Current Projects
-- 🧠 **NeuroBand – an intelligent wristband that monitors stress using biological sensors and ML algorithms**
 - 🌱 **Research Project: BioBloom – Microalgae as a Source of Bioactive Compounds in Pharmacology**
 - 🔐 **Solving CTFs @** [Gimel](https://ctftime.org/team/357179)
+- 🧠 **NeuroBand – an intelligent wristband that monitors stress using biological sensors and ML algorithms**
 
 ---
 
