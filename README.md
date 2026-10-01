@@ -1,8 +1,7 @@
 # Hi, I'm Marta!
 
-- 🎓 Incoming Computer Science student at **Faculty of Mathematics, Informatics & Mechanics** (University of Warsaw)
-- 💻 Primarily coding in **Python**
-- 🧬 Interested in **Machine Learning** & **Bioinformatics**
+- Computer Science student at **Faculty of Mathematics, Informatics & Mechanics** (University of Warsaw)
+- Interested in **Machine Learning** & **Bioinformatics**
 
 ---
 
